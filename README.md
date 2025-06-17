@@ -1,9 +1,6 @@
-#DDsEngine
-## demo cuda
+##DDsEngine - demo cuda
 
 
 ![](./logo.png)
 
 [DDsEngine](http://ddsengine.fr/)
-
-###End
